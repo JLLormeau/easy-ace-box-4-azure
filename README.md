@@ -2,7 +2,7 @@
 
 ## On Dynatrace Bitbuket
 
-- Ace-Box Readme https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse-  
+- Ace-Box Readme https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse  
 - Ace-Box Readme for Terraform on Azure : https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse/terraform/azure  
 
 ## Azure Subscription
