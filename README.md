@@ -13,7 +13,7 @@
 	 
       choco install terraform -y
      
-- Install the Azure CLI for Windows : : open PowerShell with admin role and run this cmd - more detail [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
+- Install the Azure CLI for Windows : open PowerShell with admin role and run this cmd - more detail [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 		
       invoke-WebRequest -Uri https://aka.ms/installazurecliwindows -OutFile .\AzureCLI.msi; Start-Process msiexec.exe -Wait -ArgumentList '/I AzureCLI.msi /quiet'; rm .\AzureCLI.msi
 	    
