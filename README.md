@@ -54,8 +54,9 @@
 - Connect to your Azure Subscription with Azure Cli from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
 
       az login
-	
-   ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
+
+- Validate the connexion on your browser automatically open for you. At the end of the connexion you will have the result :  
+    ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
 
 - Run the installation  
 
