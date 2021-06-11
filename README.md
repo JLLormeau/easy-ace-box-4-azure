@@ -75,11 +75,9 @@
 - After 30 minutes 
   ![image](https://user-images.githubusercontent.com/40337213/121715969-c5347800-cadf-11eb-93f2-74141d8b1822.png)
 
-
 - VM Access
-  ![image](https://user-images.githubusercontent.com/40337213/121715552-4f301100-cadf-11eb-8114-756b6976eafb.png)
-	
-
+  ![image](https://user-images.githubusercontent.com/40337213/121721875-054a2980-cae5-11eb-9633-2ba28cc72514.png) 
+ 	
 - DevOps access
  ![image](https://user-images.githubusercontent.com/40337213/121715601-5d7e2d00-cadf-11eb-9c8f-1738d58fc2ee.png)
 	
