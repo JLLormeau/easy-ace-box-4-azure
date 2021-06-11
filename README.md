@@ -68,8 +68,7 @@
       yes	
 	
 
-  ![image](https://user-images.githubusercontent.com/40337213/121715828-9dddab00-cadf-11eb-9e15-d5a35e650a2c.png)
-
+   ![image](https://user-images.githubusercontent.com/40337213/121719807-42adb780-cae3-11eb-87cf-2c7b46bd72e2.png)
 
 ## At the end
 - After 30 minutes 
