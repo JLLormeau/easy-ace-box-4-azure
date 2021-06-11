@@ -21,7 +21,7 @@
 			
 	
 ## Ace-Box source 
-- From Dynatrace VPN, copie the ace-box source on your local directory
+- Git Clone the ace-box on your local directory (you need to be connected to the VPN)
 
       git clone ssh://git@bitbucket.lab.dynatrace.org/aces/ace-box.git	
 
@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/40337213/121713202-e47dd600-cadc-11eb-8f47-5fc5d8b19a8d.png)
 
 ## run terraform installation
-- Deconnect to the VPN and start a PowerShell (no need to be admin) 
+- Connect to your Azure Subscription with Azure Cli from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
 
 	az login
 	
