@@ -30,7 +30,8 @@
 
 ## Ace-Box configuration
 - Create the file **config.yml** on `/ace-box/microk8s`
-![image](https://user-images.githubusercontent.com/40337213/121711843-52c19900-cadb-11eb-8312-cd53abd914a0.png)
+![image](https://user-images.githubusercontent.com/40337213/121717037-0ed19280-cae1-11eb-885e-8efed7986645.png)
+
 
 - with this config, more details [here](https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse/microk8s/config.yml.completetmpl)   
 ![image](https://user-images.githubusercontent.com/40337213/121711872-59501080-cadb-11eb-8eea-edcb92a8ccd6.png)
