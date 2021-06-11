@@ -6,7 +6,7 @@
 ## Prerequis on your local laptop
 - Install Terraform with PowerShell with admin role - more detail [here](https://learn.hashicorp.com/tutorials/terraform/install-cli)  
 	 
-       choco install terraform -y
+      choco install terraform -y
      
 - Install the Azure CLI for Windows with PowerShell with admin role - more detail [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 		
