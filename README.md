@@ -67,9 +67,9 @@
       terraform apply
       yes	
 	
+   ![image](https://user-images.githubusercontent.com/40337213/121720489-75f04680-cae3-11eb-83a9-b105e4af56cd.png)
 
-   ![image](https://user-images.githubusercontent.com/40337213/121719807-42adb780-cae3-11eb-87cf-2c7b46bd72e2.png)
-
+   
 ## At the end
 - After 30 minutes 
   ![image](https://user-images.githubusercontent.com/40337213/121715969-c5347800-cadf-11eb-93f2-74141d8b1822.png)
