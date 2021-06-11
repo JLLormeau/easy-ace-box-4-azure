@@ -70,7 +70,7 @@
    ![image](https://user-images.githubusercontent.com/40337213/121720489-75f04680-cae3-11eb-83a9-b105e4af56cd.png)
 
    
-## At the end
+## At the end of the installation
 - After 30 minutes 
   ![image](https://user-images.githubusercontent.com/40337213/121715969-c5347800-cadf-11eb-93f2-74141d8b1822.png)
 
@@ -80,3 +80,20 @@
 - DevOps access
  ![image](https://user-images.githubusercontent.com/40337213/121715601-5d7e2d00-cadf-11eb-9c8f-1738d58fc2ee.png)
 	
+
+## Stop the VM on Azure 
+- When you stopping Azure you a part of the VM cost (you continue to pay the stockage)
+
+![image](https://user-images.githubusercontent.com/40337213/121721022-10e92080-cae4-11eb-9a3e-71b2b6a2038f.png)
+
+## Delete the resource on Azure 
+- When you have finished with the ace-box, think to delete the **Resource-Group** to stop paying
+
+![image](https://user-images.githubusercontent.com/40337213/121721363-7806d500-cae4-11eb-94d1-4ef2ba871145.png)
+
+
+
+
+
+
+
