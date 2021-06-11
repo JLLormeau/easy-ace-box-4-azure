@@ -48,7 +48,8 @@
 
 - Open **variables.tf** on `/ace-box/terraform/azure/` to check out the other variables : 
 
-![image](https://user-images.githubusercontent.com/40337213/121713202-e47dd600-cadc-11eb-8f47-5fc5d8b19a8d.png)
+![image](https://user-images.githubusercontent.com/40337213/121717289-4cceb680-cae1-11eb-863f-fe7721f2bd0e.png)
+
 
 ## run terraform installation
 - Connect to your Azure Subscription with Azure Cli from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
