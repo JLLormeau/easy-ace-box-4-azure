@@ -18,7 +18,7 @@
 ## With Dynatrace VPN 	
 - Copie the ace-box source on your local directory
 
-     git clone ssh://git@bitbucket.lab.dynatrace.org/aces/ace-box.git
+      git clone ssh://git@bitbucket.lab.dynatrace.org/aces/ace-box.git
 		
 		
 ## Deconnect to the VPN and start a PowerShell (no need to be admin) 
