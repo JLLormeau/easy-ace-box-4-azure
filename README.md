@@ -30,25 +30,24 @@
 
 ## Ace-Box configuration
 - Create the file **config.yml** on `/ace-box/microk8s`
-![image](https://user-images.githubusercontent.com/40337213/121717037-0ed19280-cae1-11eb-885e-8efed7986645.png)
+ ![image](https://user-images.githubusercontent.com/40337213/121717037-0ed19280-cae1-11eb-885e-8efed7986645.png)
 
 
 - with this config, more details [here](https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse/microk8s/config.yml.completetmpl)   
-![image](https://user-images.githubusercontent.com/40337213/121711872-59501080-cadb-11eb-8eea-edcb92a8ccd6.png)
+ ![image](https://user-images.githubusercontent.com/40337213/121711872-59501080-cadb-11eb-8eea-edcb92a8ccd6.png)
 
 
 ## Terraform configuration
 - Create the file **terraform.tfvars** on `/ace-box/terraform/azure`
-![image](https://user-images.githubusercontent.com/40337213/121716930-ecd81000-cae0-11eb-81f9-ea5e7c8f6e83.png)
+ ![image](https://user-images.githubusercontent.com/40337213/121716930-ecd81000-cae0-11eb-81f9-ea5e7c8f6e83.png)
 
 - with this configuration (example of azure_location : "francecentral", "northeurope", "westeurope", "uksouth" ...)
-![image](https://user-images.githubusercontent.com/40337213/121713298-fd868700-cadc-11eb-8cfa-53b7bb2d2b04.png)
+ ![image](https://user-images.githubusercontent.com/40337213/121713298-fd868700-cadc-11eb-8cfa-53b7bb2d2b04.png)
 
      azure_location = "westeurope"
 
 - Open **variables.tf** on `/ace-box/terraform/azure/` to check out the other variables : 
-
-![image](https://user-images.githubusercontent.com/40337213/121717289-4cceb680-cae1-11eb-863f-fe7721f2bd0e.png)
+ ![image](https://user-images.githubusercontent.com/40337213/121717289-4cceb680-cae1-11eb-863f-fe7721f2bd0e.png)
 
 
 ## run terraform installation
@@ -79,5 +78,5 @@
   ![image](https://user-images.githubusercontent.com/40337213/121715552-4f301100-cadf-11eb-8114-756b6976eafb.png)
 	
 - DevOps access
-![image](https://user-images.githubusercontent.com/40337213/121715601-5d7e2d00-cadf-11eb-9c8f-1738d58fc2ee.png)
+ ![image](https://user-images.githubusercontent.com/40337213/121715601-5d7e2d00-cadf-11eb-9c8f-1738d58fc2ee.png)
 	
