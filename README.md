@@ -83,7 +83,7 @@
 	
 	
 ## Stop the VM on Azure 
-- When you stopping Azure you a part of the VM cost (you continue to pay the stockage)
+- When you stopping Azure you a part of the VM cost (you continue to pay the storage)
 
 ![image](https://user-images.githubusercontent.com/40337213/121721022-10e92080-cae4-11eb-9a3e-71b2b6a2038f.png)
 
