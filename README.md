@@ -67,7 +67,7 @@
       terraform apply
       yes	
 	
-   ![image](https://user-images.githubusercontent.com/40337213/121720489-75f04680-cae3-11eb-83a9-b105e4af56cd.png)
+   ![image](https://user-images.githubusercontent.com/40337213/121724744-979ffc80-cae8-11eb-896b-341522cac33a.png)
 
    
 ## Acces to the ace-box
