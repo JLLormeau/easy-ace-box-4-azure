@@ -70,9 +70,9 @@
    ![image](https://user-images.githubusercontent.com/40337213/121720489-75f04680-cae3-11eb-83a9-b105e4af56cd.png)
 
    
-## At the end of the installation
+## Acces to the ace-box
 
-- After 30 minutes 
+- After 30 minutes, the ace-box is installed :  
   ![image](https://user-images.githubusercontent.com/40337213/121715969-c5347800-cadf-11eb-93f2-74141d8b1822.png)
 
 - VM Access
@@ -81,7 +81,7 @@
 - DevOps access
  ![image](https://user-images.githubusercontent.com/40337213/121715601-5d7e2d00-cadf-11eb-9c8f-1738d58fc2ee.png)
 	
-
+	
 ## Stop the VM on Azure 
 - When you stopping Azure you a part of the VM cost (you continue to pay the stockage)
 
