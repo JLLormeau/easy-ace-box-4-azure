@@ -6,7 +6,7 @@
 - Ace-Box Readme for Terraform on Azure : https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse/terraform/azure  
 
 ## Azure Subscription
-- For a free subscription : https://azure.microsoft.com/en-us/free
+- You need a Azure subscription : https://azure.microsoft.com/en-us/free
 
 ## Prerequis on your local laptop
 - Install Terraform : open PowerShell with admin role and run this cmd - more detail [here](https://learn.hashicorp.com/tutorials/terraform/install-cli)  
