@@ -50,7 +50,7 @@
  ![image](https://user-images.githubusercontent.com/40337213/121717289-4cceb680-cae1-11eb-863f-fe7721f2bd0e.png)
 
 
-## run terraform installation
+## Intallation : run Terraform on Azure
 - Connect to your Azure Subscription with Azure Cli from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
 
       az login
