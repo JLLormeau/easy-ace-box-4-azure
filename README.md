@@ -76,7 +76,7 @@
   ![image](https://user-images.githubusercontent.com/40337213/121715969-c5347800-cadf-11eb-93f2-74141d8b1822.png)
 
 
-- VM Access2
+- VM Access
   ![image](https://user-images.githubusercontent.com/40337213/121715552-4f301100-cadf-11eb-8114-756b6976eafb.png)
 	
 
