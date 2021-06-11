@@ -59,12 +59,12 @@
 
 - Run the installation
 
-	cd ace-box/terraform/azure
-	ssh-keygen -b 2048 -t rsa -f key
-	terraform init
-	terraform plan
-	terraform apply
-	yes	
+	 cd ace-box/terraform/azure
+	 ssh-keygen -b 2048 -t rsa -f key
+	 terraform init
+	 terraform plan
+	 terraform apply
+	 yes	
 	
 
   ![image](https://user-images.githubusercontent.com/40337213/121715828-9dddab00-cadf-11eb-9e15-d5a35e650a2c.png)
