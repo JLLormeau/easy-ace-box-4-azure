@@ -32,7 +32,7 @@
 - Create the file **config.yml** on `/ace-box/microk8s`
 ![image](https://user-images.githubusercontent.com/40337213/121711843-52c19900-cadb-11eb-8312-cd53abd914a0.png)
 
-- with tnis config, more details [here](https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse/microk8s/config.yml.completetmpl)   
+- with this config, more details [here](https://bitbucket.lab.dynatrace.org/projects/ACES/repos/ace-box/browse/microk8s/config.yml.completetmpl)   
 ![image](https://user-images.githubusercontent.com/40337213/121711872-59501080-cadb-11eb-8eea-edcb92a8ccd6.png)
 
 
