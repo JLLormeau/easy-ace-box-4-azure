@@ -63,7 +63,7 @@
         terraform plan
         terraform apply -auto-approve	
 
-- You will be connected to your Azure Subscription with a walidation from your browser automatically open for you. At the end of the connexion you will have the result : 
+- You will be connected to your Azure Subscription with a validation from your browser automatically open for you. Once the connexion is OK, you will have this result : 
     ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
 
 - Result when you run the installation 
