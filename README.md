@@ -60,7 +60,7 @@
 
 - Run the installation  
 
-      cd ace-box/terraform/azure
+      cd ace-box\terraform\azure
       ssh-keygen -b 2048 -t rsa -f key
       terraform init
       terraform plan
