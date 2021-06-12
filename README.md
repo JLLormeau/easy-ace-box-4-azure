@@ -64,8 +64,8 @@
         terraform apply -auto-approve	
 
 - You will be connected to your Azure Subscription with a validation from your browser automatically open for you. Once the connexion is OK, you will have this result : 
-    ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
-
+   ![image](https://user-images.githubusercontent.com/40337213/121784333-bf0fcb80-cbb3-11eb-8945-129d218f099c.png)
+   
 - Result when you run the installation 
    ![image](https://user-images.githubusercontent.com/40337213/121724917-dafa6b00-cae8-11eb-8ea7-f7825e1fb31c.png)
 
@@ -91,10 +91,3 @@
 - When you have finished with the ace-box, think to delete the **Resource-Group** to stop paying
 
 ![image](https://user-images.githubusercontent.com/40337213/121721363-7806d500-cae4-11eb-94d1-4ef2ba871145.png)
-
-
-
-
-
-
-
