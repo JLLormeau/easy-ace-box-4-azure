@@ -51,22 +51,19 @@
 
 
 ## Intallation : run Terraform on Azure
-- Connect to your Azure Subscription with Azure Cli from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
-
-      az login
-
-- Validate the connexion on your browser automatically open for you. At the end of the connexion you will have the result :  
-    ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
-
-- Run the installation  
+- Run the installation from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
 
       cd ace-box\terraform\azure
+      az login
       ssh-keygen -b 2048 -t rsa -f key
       terraform init
       terraform plan
-      terraform apply
-      yes	
-	
+      terraform apply -auto-approve	
+
+- You will be connected to your Azure Subscription with a walidation from your browser automatically open for you. At the end of the connexion you will have the result : 
+    ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
+
+- Result when you run the installation 
    ![image](https://user-images.githubusercontent.com/40337213/121724917-dafa6b00-cae8-11eb-8ea7-f7825e1fb31c.png)
 
    
