@@ -41,7 +41,7 @@
 - Create the file **terraform.tfvars** on `/ace-box/terraform/azure`
  ![image](https://user-images.githubusercontent.com/40337213/121716930-ecd81000-cae0-11eb-81f9-ea5e7c8f6e83.png)
 
-- with this configuration (example of azure_location : "francecentral", "northeurope", "westeurope", "uksouth" ...)
+- with this configuration (example of azure_location : `francecentral`, `northeurope`, `westeurope`, `uksouth` ...)
  ![image](https://user-images.githubusercontent.com/40337213/121713298-fd868700-cadc-11eb-8cfa-53b7bb2d2b04.png)
 
       azure_location = "westeurope"
