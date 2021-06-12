@@ -56,11 +56,11 @@
  2) open a PowerShell (no need to be admin for this tep) 
  3) go to the directory ace-box\terraform\azure
 
-      az login
-      ssh-keygen -b 2048 -t rsa -f key q -N """"
-      terraform init
-      terraform plan
-      terraform apply -auto-approve	
+        az login
+        ssh-keygen -b 2048 -t rsa -f key q -N """"
+        terraform init
+        terraform plan
+        terraform apply -auto-approve	
 
 - You will be connected to your Azure Subscription with a walidation from your browser automatically open for you. At the end of the connexion you will have the result : 
     ![image](https://user-images.githubusercontent.com/40337213/121714815-805c1180-cade-11eb-84bc-2825d239002f.png)
