@@ -51,11 +51,13 @@
 
 
 ## Intallation : run Terraform on Azure
-- Run the installation from your local PowerShell (no need to be admin) - and prefer to be disconnected to the VPN :
+- To run the installation 
+ 1) disconnect to the VPN
+ 2) open a PowerShell (no need to be admin for this tep) 
+ 3) go to the directory ace-box\terraform\azure
 
-      cd ace-box\terraform\azure
       az login
-      ssh-keygen -b 2048 -t rsa -f key
+      ssh-keygen -b 2048 -t rsa -f key q -N """"
       terraform init
       terraform plan
       terraform apply -auto-approve	
