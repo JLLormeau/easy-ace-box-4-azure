@@ -55,7 +55,8 @@
  1) disconnect to the VPN
  2) open a PowerShell (no need to be admin for this tep) 
  3) go to the directory ace-box\terraform\azure
-
+ 4) run these cmd
+ 
         az login
         ssh-keygen -b 2048 -t rsa -f key q -N """"
         terraform init
