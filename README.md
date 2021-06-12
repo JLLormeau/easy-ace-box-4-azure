@@ -23,7 +23,7 @@
 ## Ace-Box source 
 - Git Clone the ace-box on your local directory (you need to be connected to the VPN)
 
-      git clone ssh://git@bitbucket.lab.dynatrace.org/aces/ace-box.git	
+      git clone ssh://git@bitbucket.lab.dynatrace.org/aces/ace-box.git
 
   ![image](https://user-images.githubusercontent.com/40337213/121711710-3160ad00-cadb-11eb-8131-ad76e3518644.png)
 
@@ -44,7 +44,7 @@
 - with this configuration (example of azure_location : "francecentral", "northeurope", "westeurope", "uksouth" ...)
  ![image](https://user-images.githubusercontent.com/40337213/121713298-fd868700-cadc-11eb-8cfa-53b7bb2d2b04.png)
 
-     azure_location = "westeurope"
+      azure_location = "westeurope"
 
 - Open **variables.tf** on `/ace-box/terraform/azure/` to check out the other variables : 
  ![image](https://user-images.githubusercontent.com/40337213/121717289-4cceb680-cae1-11eb-863f-fe7721f2bd0e.png)
