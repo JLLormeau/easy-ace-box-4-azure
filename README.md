@@ -58,7 +58,7 @@
  4) run these cmd
  
         az login
-        ssh-keygen -b 2048 -t rsa -f key q -N """"
+        ssh-keygen -b 2048 -t rsa -f key
         terraform init
         terraform plan
         terraform apply -auto-approve	
