@@ -91,3 +91,6 @@
 - When you have finished with the ace-box, think to delete the **Resource-Group** to stop paying
 
 ![image](https://user-images.githubusercontent.com/40337213/121721363-7806d500-cae4-11eb-94d1-4ef2ba871145.png)
+
+## Installation automatised
+Use the script attached here to automatically installez and stop your Azure Ace Box
